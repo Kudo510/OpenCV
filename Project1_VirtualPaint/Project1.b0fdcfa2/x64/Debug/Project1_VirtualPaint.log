@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project1_VirtualPaint\main.cpp(39,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project1_VirtualPaint\main.cpp(46,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project1_VirtualPaint\main.cpp(92,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1_VirtualPaint.vcxproj -> C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project1_VirtualPaint\x64\Debug\Project1_VirtualPaint.exe

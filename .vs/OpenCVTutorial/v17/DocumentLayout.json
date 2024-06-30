@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D73CD55-AB5F-4074-88AA-D90E7E7184E7}|Project3_LicensePlateRecognition\\Project3_LicensePlateRecognition.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project3_LicensePlateRecognition\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D73CD55-AB5F-4074-88AA-D90E7E7184E7}|Project3_LicensePlateRecognition\\Project3_LicensePlateRecognition.vcxproj|solutionrelative:Project3_LicensePlateRecognition\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|solutionrelative:OpenCVTutorial\\Chapter8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1CD87D-77F7-4395-8092-373FE7B25200}|Project2_DocumentScanner\\Project2_DocumentScanner.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project2_DocumentScanner\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D1CD87D-77F7-4395-8092-373FE7B25200}|Project2_DocumentScanner\\Project2_DocumentScanner.vcxproj|solutionrelative:Project2_DocumentScanner\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|solutionrelative:OpenCVTutorial\\Chapter3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FDCFA2-AF48-4597-ADAB-8DF8A907EE62}|Project1_VirtualPaint\\Project1_VirtualPaint.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project1_VirtualPaint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0FDCFA2-AF48-4597-ADAB-8DF8A907EE62}|Project1_VirtualPaint\\Project1_VirtualPaint.vcxproj|solutionrelative:Project1_VirtualPaint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|solutionrelative:OpenCVTutorial\\Chapter6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|solutionrelative:OpenCVTutorial\\Chapter1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCB77B2-6D1C-47CB-9609-E1675FF29E00}|OpenCVTutorial\\OpenCVTutorial.vcxproj|solutionrelative:OpenCVTutorial\\Chapter7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project3_LicensePlateRecognition\\main.cpp",
+              "RelativeDocumentMoniker": "Project3_LicensePlateRecognition\\main.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project3_LicensePlateRecognition\\main.cpp",
+              "RelativeToolTip": "Project3_LicensePlateRecognition\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T13:09:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project2_DocumentScanner\\main.cpp",
+              "RelativeDocumentMoniker": "Project2_DocumentScanner\\main.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project2_DocumentScanner\\main.cpp",
+              "RelativeToolTip": "Project2_DocumentScanner\\main.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T10:41:45.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project1_VirtualPaint\\main.cpp",
+              "RelativeDocumentMoniker": "Project1_VirtualPaint\\main.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\Project1_VirtualPaint\\main.cpp",
+              "RelativeToolTip": "Project1_VirtualPaint\\main.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T21:22:21.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chapter3.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter3.cpp",
+              "RelativeDocumentMoniker": "OpenCVTutorial\\Chapter3.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter3.cpp",
+              "RelativeToolTip": "OpenCVTutorial\\Chapter3.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T19:47:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chapter8.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter8.cpp",
+              "RelativeDocumentMoniker": "OpenCVTutorial\\Chapter8.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter8.cpp",
+              "RelativeToolTip": "OpenCVTutorial\\Chapter8.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:28:14.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chapter7.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter7.cpp",
+              "RelativeDocumentMoniker": "OpenCVTutorial\\Chapter7.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter7.cpp",
+              "RelativeToolTip": "OpenCVTutorial\\Chapter7.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:28:04.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chapter1.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter1.cpp",
+              "RelativeDocumentMoniker": "OpenCVTutorial\\Chapter1.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter1.cpp",
+              "RelativeToolTip": "OpenCVTutorial\\Chapter1.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T12:47:29.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chapter6.cpp",
+              "DocumentMoniker": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter6.cpp",
+              "RelativeDocumentMoniker": "OpenCVTutorial\\Chapter6.cpp",
+              "ToolTip": "C:\\Werkstudent_job\\self studies\\C\u002B\u002B\\OpenCV\\OpenCVTutorial\\OpenCVTutorial\\Chapter6.cpp",
+              "RelativeToolTip": "OpenCVTutorial\\Chapter6.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T12:44:42.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

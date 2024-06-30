@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project3_LicensePlateRecognition\main.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project3_LicensePlateRecognition.vcxproj -> C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project3_LicensePlateRecognition\x64\Debug\Project3_LicensePlateRecognition.exe

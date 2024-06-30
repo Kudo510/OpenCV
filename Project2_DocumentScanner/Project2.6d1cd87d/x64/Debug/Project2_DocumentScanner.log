@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(41,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(48,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,49): warning C4244:         with
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,49): warning C4244:         [
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,49): warning C4244:             _Tp=int
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,49): warning C4244:         ]
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,46): warning C4244:         with
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,46): warning C4244:         [
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,46): warning C4244:             _Tp=int
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(98,46): warning C4244:         ]
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(103,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,50): warning C4244:         with
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,50): warning C4244:         [
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,50): warning C4244:             _Tp=int
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,50): warning C4244:         ]
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,31): warning C4244:         with
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,31): warning C4244:         [
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,31): warning C4244:             _Tp=int
+C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\main.cpp(123,31): warning C4244:         ]
+  Project2_DocumentScanner.vcxproj -> C:\Werkstudent_job\self studies\C++\OpenCV\OpenCVTutorial\Project2_DocumentScanner\x64\Debug\Project2_DocumentScanner.exe
